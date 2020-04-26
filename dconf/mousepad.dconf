@@ -1,0 +1,22 @@
+[org/xfce/mousepad/preferences/view]
+auto-indent=false
+color-scheme='Kate'
+font-name='Monospace'
+highlight-current-line=true
+indent-on-tab=true
+indent-width=-1
+insert-spaces=false
+match-braces=false
+right-margin-position=80
+show-line-endings=false
+show-line-marks=false
+show-line-numbers=true
+show-right-margin=false
+show-whitespace=false
+smart-home-end='disabled'
+tab-width=8
+word-wrap=true
+
+[net/launchpad/plank/docks/dock1]
+dock-items = ['org.gnome.Nautilus.dockitem', 'xfcalendar.dockitem', 'org.gnome.FileRoller.dockitem', 'clock.dockitem', 'galculator.dockitem', 'xfce4-taskmanager.dockitem', 'wps-office-wps.dockitem', 'wps-office-et.dockitem', 'wps-office-pdf.dockitem', 'ristretto.dockitem', 'transmission-gtk.dockitem', 'electrum.dockitem', 'electrum-ltc.dockitem', 'mist.dockitem', 'google-chrome.dockitem']
+

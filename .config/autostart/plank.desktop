@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=plank
+Hidden=false
+NoDisplay=false
+Name=plank
+Comment=plank
+Terminal=False

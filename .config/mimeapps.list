@@ -1,0 +1,10 @@
+[Added Associations]
+inode/symlink=google-chrome.desktop;
+image/jpeg=ristretto.desktop;
+inode/directory=nautilus.desktop;
+x-scheme-handler/trash=nautilus.desktop;
+
+[Default Applications]
+inode/directory=nautilus.desktop
+application=nautilus.desktop
+

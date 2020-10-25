@@ -62,10 +62,12 @@
         <value type="string" value="kalu"/>
         <value type="string" value="netzwerk-manager-applet"/>
       </property>
+      <property name="size-max" type="uint" value="19"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chrome.instance19548"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -73,7 +75,7 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-12" type="string" value="clock">
-      <property name="digital-format" type="string" value="%T"/>
+      <property name="digital-format" type="string" value="%a %d %b, %R"/>
       <property name="mode" type="uint" value="2"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
@@ -99,7 +101,18 @@
     <property name="plugin-1" type="string" value="whiskermenu"/>
     <property name="plugin-18" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="false"/>
     </property>
-    <property name="plugin-15" type="string" value="tasklist"/>
+    <property name="plugin-15" type="string" value="tasklist">
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="sort-order" type="uint" value="1"/>
+      <property name="grouping" type="uint" value="1"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-wireframes" type="bool" value="false"/>
+      <property name="label-decorations" type="bool" value="false"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="false"/>
+    </property>
   </property>
 </channel>

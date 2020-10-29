@@ -30,7 +30,7 @@
         <value type="double" value="0.000000"/>
         <value type="double" value="0.000000"/>
         <value type="double" value="0.000000"/>
-        <value type="double" value="0.700000"/>
+        <value type="double" value="1.000000"/>
       </property>
       <property name="disable-struts" type="bool" value="false"/>
       <property name="length-adjust" type="bool" value="false"/>

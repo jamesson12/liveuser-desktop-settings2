@@ -62,7 +62,7 @@
         <value type="string" value="kalu"/>
         <value type="string" value="netzwerk-manager-applet"/>
       </property>
-      <property name="size-max" type="uint" value="19"/>
+      <property name="size-max" type="uint" value="20"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>

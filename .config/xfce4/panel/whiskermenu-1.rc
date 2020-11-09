@@ -1,4 +1,4 @@
-favorites=gnome-terminal.desktop,xfce-settings-manager.desktop,ristretto.desktop,org.xfce.Parole.desktop,xfce4-taskmanager.desktop,Thunar.desktop
+favorites=org.gnome.Terminal.desktop,xfce-settings-manager.desktop,ristretto.desktop,org.xfce.Parole.desktop,xfce4-taskmanager.desktop,Thunar.desktop
 recent=exo-terminal-emulator.desktop,nemo.desktop,inkscape.desktop,org.xfce.Catfish.desktop
 button-title=LibertyOS
 button-icon=/usr/share/endeavouros/im-msn.svg

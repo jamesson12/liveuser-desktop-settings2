@@ -1,4 +1,4 @@
-favorites=gnome-terminal.desktop,firefox.desktop,xfce-settings-manager.desktop,ristretto.desktop,org.xfce.Parole.desktop,xfce4-taskmanager.desktop,Thunar.desktop
+favorites=org.gnome.Terminal.desktop,firefox.desktop,xfce-settings-manager.desktop,ristretto.desktop,org.xfce.Parole.desktop,xfce4-taskmanager.desktop,Thunar.desktop
 recent=
 button-title=LibertyOS
 button-icon=/usr/share/endeavouros/im-msn.svg

@@ -1,2 +1,3 @@
 [net/launchpad/plank/docks/dock1]
 dock-items = ['org.gnome.Calculator.dockitem', 'org.gnome.Nautilus.dockitem', 'org.gnome.Software.dockitem', 'org.gnome.FileRoller.dockitem', 'gnome-system-monitor.dockitem', 'clock.dockitem', 'org.gnome.Calendar.dockitem', 'org.gnome.Weather.dockitem', 'GoogleDocs.dockitem', 'wps-office-wps.dockitem', 'wps-office-wpp.dockitem', 'wps-office-et.dockitem', 'org.gnome.gedit.dockitem', 'retroarch.dockitem', 'telegramdesktop.dockitem', 'DLive · Live Stream on Blockchain.dockitem', 'spotify.dockitem', 'whatsapp-nativefier-dark.dockitem', 'discord.dockitem', 'google-chrome.dockitem', 'electrum.dockitem', 'electrum-ltc.dockitem', 'mycrypto.dockitem', 'transmission-gtk.dockitem']
+pressure-reveal = true
